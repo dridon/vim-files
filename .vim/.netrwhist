@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/sable/fkhan24/projects/sable-websites/mclab-www/mclab/publications/lectures-and-tutorials/pldi-tutorial'
+let g:netrw_dirhist_2='/Users/faiz/projects/Bioworld/prototypes/layout-problem-list/app'
+let g:netrw_dirhist_3='/Users/faiz/dev/Bioworld/src/node_modules/flux'
+let g:netrw_dirhist_4='/Users/faiz/dev/Bioworld/src/js'
+let g:netrw_dirhist_5='/Users/faiz/dev/Bioworld/src/js/jsx/observations'
+let g:netrw_dirhist_6='/Users/faiz/dev/Bioworld/src/js/jsx/test'
